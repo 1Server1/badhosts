@@ -1,0 +1,4 @@
+#badhosts
+
+# Test domain
+0.0.0.0 dnsblockertest.wordpress.com
