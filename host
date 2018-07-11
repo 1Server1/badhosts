@@ -1,4 +1,20 @@
-#badhosts
+####################################
+# badhosts
+# https://raw.githubusercontent.com/1Server1/badhosts/master/host
+#
+# You can use this host file freely as long as you keep this header information with it.
+####################################
 
+######################
 # Test domain
 0.0.0.0 dnsblockertest.wordpress.com
+######################
+
+######################
+# Starting with bad hosts
+
+0.0.0.0 androidbak.com
+0.0.0.0 droidback.com
+0.0.0.0 endpointup.com
+0.0.0.0 siteanalysto.com
+0.0.0.0 goodydaddy.com
