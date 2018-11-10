@@ -6,11 +6,11 @@
 ####################################
 
 ######################
-facebook.com
-fb.com
-fbcdn.net
-www.facebook.com
-www.fb.com
-www.fbcdn.net
+0.0.0.0 facebook.com
+0.0.0.0 www.facebook.com
+0.0.0.0 fb.com
+0.0.0.0 www.fb.com
+0.0.0.0 fbcdn.net
+0.0.0.0 www.fbcdn.net
 
 ######################
