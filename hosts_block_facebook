@@ -1,0 +1,13 @@
+####################################
+# Block Facebook hosts
+# https://raw.githubusercontent.com/1Server1/badhosts/master/hosts_block_facebook
+#
+# You can use this host file freely as long as you keep this header information with it.       
+####################################
+
+######################
+facebook.com
+fb.com
+fbcdn.net
+      
+######################
