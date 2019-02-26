@@ -1,0 +1,22 @@
+####################################
+# Hostfile for unwanted smarthome tools like devices with integrated Alexa from Amazon.
+# https://raw.githubusercontent.com/1Server1/badhosts/master/smarthome
+#
+####################################
+
+######################
+# Test domain
+0.0.0.0 dnsblockertest3.wordpress.com
+######################
+
+######################
+# Starting with bad hosts
+# https://discourse.pi-hole.net/t/commonly-blacklisted-domains/305#alexa
+0.0.0.0. vsp-alexa-eu.amazon.com
+# Variants of the above
+0.0.0.0. vsp-alexa-us.amazon.com
+0.0.0.0. vsp-alexa-de.amazon.com
+0.0.0.0. vsp-alexa-ch.amazon.com
+0.0.0.0. vsp-alexa-at.amazon.com
+0.0.0.0. vsp-alexa-es.amazon.com
+0.0.0.0. vsp-alexa-uk.amazon.com
