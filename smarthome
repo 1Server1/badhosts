@@ -12,11 +12,23 @@
 ######################
 # Starting with bad hosts
 # https://discourse.pi-hole.net/t/commonly-blacklisted-domains/305#alexa
-0.0.0.0. vsp-alexa-eu.amazon.com
+0.0.0.0 vsp-alexa-eu.amazon.com
 # Variants of the above
-0.0.0.0. vsp-alexa-us.amazon.com
-0.0.0.0. vsp-alexa-de.amazon.com
-0.0.0.0. vsp-alexa-ch.amazon.com
-0.0.0.0. vsp-alexa-at.amazon.com
-0.0.0.0. vsp-alexa-es.amazon.com
-0.0.0.0. vsp-alexa-uk.amazon.com
+0.0.0.0 vsp-alexa-us.amazon.com
+0.0.0.0 vsp-alexa-de.amazon.com
+0.0.0.0 vsp-alexa-ch.amazon.com
+0.0.0.0 vsp-alexa-at.amazon.com
+0.0.0.0 vsp-alexa-es.amazon.com
+0.0.0.0 vsp-alexa-uk.amazon.com
+
+#
+0.0.0.0 aax-eu.amazon-adsystem.com
+# Variants of the above
+0.0.0.0 aax-us.amazon-adsystem.com
+0.0.0.0 aax-de.amazon-adsystem.com
+
+#
+0.0.0.0 device-metrics-eu.amazon.com
+# Variants of the above
+0.0.0.0 device-metrics-us.amazon.com
+0.0.0.0 device-metrics-de.amazon.com
