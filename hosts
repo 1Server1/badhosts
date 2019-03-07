@@ -10,6 +10,14 @@
 ######################
 
 ######################
+# Starting with trackers
+
+0.0.0.0 ssl-google-analytics.l.google.com
+
+# End tracker
+######################
+
+######################
 # Starting with bad hosts
 
 0.0.0.0 androidbak.com
