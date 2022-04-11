@@ -1,0 +1,14 @@
+####################################
+# badhosts
+# https://raw.githubusercontent.com/1Server1/badhosts/master/additional_for_mobile
+#
+# File to be merged with the standard host-file provided in the app
+####################################
+0.0.0.0 dnsblockertest5.wordpress.com
+
+0.0.0.0 cdn.optimizely.com
+0.0.0.0 logx.optimizely.com
+0.0.0.0 tags.tiqcdn.com
+0.0.0.0 collect.tealiumiq.com
+0.0.0.0 deutschebahn.sc.omtrdc.net
+0.0.0.0 app.crossengage.io
