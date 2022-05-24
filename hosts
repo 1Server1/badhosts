@@ -185,3 +185,8 @@
 0.0.0.0 lp.cooktracking.com
 0.0.0.0 ddl.okgoodmobi.com
 0.0.0.0 ddl.okyesmobi.com
+
+#https://www.microsoft.com/security/blog/2022/05/19/rise-in-xorddos-a-deeper-look-at-the-stealthy-ddos-malware-targeting-linux-devices/
+0.0.0.0 www.enoan2107.com
+0.0.0.0 www.gzcfr5axf6.com
+0.0.0.0 aa.hostasa.org
