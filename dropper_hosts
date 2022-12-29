@@ -1,0 +1,30 @@
+####################################
+# 1server1
+# dropper_hosts
+# https://raw.githubusercontent.com/1Server1/badhosts/master/dropper_hosts
+# 
+# This file contains domains that are known to provide fake and trojanized programs on their site.
+# It is possible that these sites are not attacking the visitor directly but are trying to convince the user to download fake and trojanized programs from their site.
+#
+# You can use this host file freely as long as you are keeping this header information with it.       
+####################################
+
+######################
+# Test domain
+0.0.0.0 dnsblockertest4.wordpress.com
+######################
+
+######################
+# fake totalcmd
+0.0.0.0 totalcmd.net
+0.0.0.0 w.totalcmd.net
+0.0.0.0 store.totalcmd.net
+0.0.0.0 ww20.totalcmd.net
+0.0.0.0 citrix.totalcmd.net
+0.0.0.0 wj.totalcmd.net
+0.0.0.0 www0.totalcmd.net
+0.0.0.0 mail.totalcmd.net
+0.0.0.0 webmail.totalcmd.net
+0.0.0.0 smtp.totalcmd.net
+0.0.0.0 admin.totalcmd.net 
+######################
